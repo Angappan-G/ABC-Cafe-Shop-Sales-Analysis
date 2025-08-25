@@ -81,4 +81,5 @@ Afternoon sales peak; mornings need promotional strategies.
 Weekend revenue share suggests potential for weekend-exclusive deals.
 
 **✅ Tools & Technologies**: Power BI, Power Query, DAX
+
 **✅ Key Skills Demonstrated:** Data Cleaning, Data Modeling, Visualization, Storytelling
