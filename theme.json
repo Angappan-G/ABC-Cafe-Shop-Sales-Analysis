@@ -1,0 +1,37 @@
+{
+  "name": "ABC Coffee Theme",
+  "dataColors": [
+    "#4B3621", 
+    "#6F4E37", 
+    "#A67B5B", 
+    "#CBB59D", 
+    "#E6D3B3", 
+    "#F5E9DA"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#4B3621",
+  "tableAccent": "#6F4E37",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "fontColor": { "solid": { "color": "#4B3621" } },
+          "fontSize": 14,
+          "fontFamily": "Segoe UI",
+          "bold": true
+        }],
+        "labels": [{
+          "color": { "solid": { "color": "#4B3621" } },
+          "fontSize": 12
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "visualHeader": [{
+          "show": true
+        }]
+      }
+    }
+  }
+}
